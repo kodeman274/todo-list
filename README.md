@@ -25,13 +25,13 @@ Web Todo List dirancang untuk membantu Anda mengatur dan melacak tugas-tugas And
 
 - **Penjadwalan Tanggal**: Atur tanggal tenggat waktu untuk tugas Anda sehingga Anda tidak akan lupa.
 
-- **Tandai Selesai**: Tandai tugas sebagai selesai ketika Anda menyelesaikannya.
+- **Tandai Selesai**: Tandai tugas dan submit 
 
 - **Hapus Tugas**: Hapus tugas yang tidak diperlukan lagi.
 
 # Usage
 
-1. **Tambah Tugas**: Masuk ke aplikasi dan klik tombol "Tambah Tugas". Isi judul dan deskripsi tugas yang ingin Anda tambahkan, dan atur tanggal tenggat waktu jika diperlukan. Klik "Simpan" untuk menambahkan tugas tersebut ke daftar Anda.
+1. **Tambah Tugas**: Masuk ke web dan klik tombol "Tambah Tugas". Isi judul dan deskripsi tugas yang ingin Anda tambahkan, dan atur tanggal tenggat waktu jika diperlukan. Klik "Simpan" untuk menambahkan tugas tersebut ke daftar Anda.
 
 2. **Lihat Tugas**: Daftar tugas yang Anda tambahkan akan ditampilkan di layar utama aplikasi. Anda dapat melihat judul, deskripsi, dan tanggal tenggat waktu untuk setiap tugas.
 
@@ -41,7 +41,7 @@ Web Todo List dirancang untuk membantu Anda mengatur dan melacak tugas-tugas And
 
 ## Instalasi
 
-Aplikasi ini dapat diakses secara online melalui tautan berikut: [Web Todo List]([https://todolist-apps.kodeman274.repl.co/]
+Web ini dapat diakses secara online melalui tautan berikut: [Web Todo List]([https://todolist-apps.kodeman274.repl.co/]
 
 
 
